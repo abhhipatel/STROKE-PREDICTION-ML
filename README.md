@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Stroke Prediction</h1>
+<h1> ML for Stroke Prediction</h1>
 <img src="https://img.shields.io/badge/Python-3.7.3-brown" />
 <img src="https://img.shields.io/badge/Frontend-HTML/CSS/JS-orange" />
 <img src="https://img.shields.io/badge/BackendAPI-Flask-yellow" />
