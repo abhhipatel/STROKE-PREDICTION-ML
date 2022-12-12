@@ -17,7 +17,7 @@ it is a stroke prediction application that is working on the basis of client dat
 
 | Disease        | Type of Model            | Accuracy |
 | -------------- | ------------------------ | -------- |
-| Brain Stroke   | Machine Learning Model   | 88.65%   |
+| Brain Stroke   | Machine Learning Model   | 94.53%   |
 
 ## NOTE
 
